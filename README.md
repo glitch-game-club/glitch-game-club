@@ -32,10 +32,9 @@ We are looking for the following kinds of people to get involved; Young people a
 
 ## Communication and Publication Channels 
 
-Please take time to review our code of conduct aimed at young people, families and other contriubtors. 
+Please take time to review our [code of conduct](CODE_OF_CONDUCT.md) aimed at young people, families and other contriubtors. 
 
-Fuller details to follow. 
+Fuller details of communications channels to follow. 
 
-* **Google Group for our current cohort**
-* **GitHub** 
-* **Etherpad for mentors and participants**
+* Google Group for our current cohort (https://groups.google.com/forum/#!forum/mozilla-html5-gamemaking-mcr)
+* Etherpad for mentors and participants
