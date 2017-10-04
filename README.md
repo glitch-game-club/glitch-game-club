@@ -30,10 +30,12 @@ We are looking for the following kinds of people to get involved; Young people a
 * **Families and School Clubs:** we have two groups of families and young people involved but are looking for more starting January 2017 
 
 
-## Communication Channels
+## Communication and Publication Channels 
+
+Please take time to review our code of conduct aimed at young people, families and other contriubtors. 
 
 Fuller details to follow. 
 
-**Google Group for our current cohort**
-**GitHub** 
-**Etherpad for mentors and participants**
+* **Google Group for our current cohort**
+* **GitHub** 
+* **Etherpad for mentors and participants**
