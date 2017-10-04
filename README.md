@@ -24,6 +24,7 @@ Please do use your Skills to Supporting the Club Process.
 
 We are looking for the following kinds of people to get involved; Young people and their guardians, teachers, HTML5 game creators, writers to help develop our stories and scenarios, researchers and campaigners.
 
+* **Educational Mentors:** you will be a education practitioner who can advice about how to to run and share our project outcomes
 * **Web Mentors:** you will be a subject enthusiast from one of the area of  activity
 * **In Person / Local Mentors:** (our pilot club in in Manchester, UK)
 * **Front End Web Designers:** to create a simple web presence which can be updated by Club participants as the project progresses
