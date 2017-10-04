@@ -16,6 +16,8 @@ This project aims to be a network of people to support issue-based, computer clu
 * Coding web-based games in Javascript, phaser.io and the canvas based games
 * Creating and acting out drama based scenarios to encourage a creative response to local and global issues especially “writing / coding in-role”
 
+How to get involved to follow soon....
+
 ##  Getting involved in the Clubs
 
 Please do use your Skills to Supporting the Club Process.
