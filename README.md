@@ -31,7 +31,7 @@ We are looking for the following kinds of people to get involved; Young people a
 * **Front End Web Designers:** to create a simple web presence which can be updated by Club participants as the project progresses
 * **Families and School Clubs:** we have two groups of families and young people involved but are looking for more starting January 2017 
 
-Please see (CONTRIBUTING.md) for more information
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information
 
 ## Communication and Publication Channels 
 
