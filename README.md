@@ -27,9 +27,11 @@ We are looking for the following kinds of people to get involved; Young people a
 * **Educational Mentors:** you will be a education practitioner who can advice about how to to run and share our project outcomes
 * **Web Mentors:** you will be a subject enthusiast from one of the area of  activity
 * **In Person / Local Mentors:** (our pilot club in in Manchester, UK)
+* **Game and Resource Creators:** to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go to tools
 * **Front End Web Designers:** to create a simple web presence which can be updated by Club participants as the project progresses
 * **Families and School Clubs:** we have two groups of families and young people involved but are looking for more starting January 2017 
 
+Please see (CONTRIBUTING.md) for more information
 
 ## Communication and Publication Channels 
 
