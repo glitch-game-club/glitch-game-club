@@ -4,7 +4,7 @@ We welcome your contributions to the Mozilla HTML5 Game Making Club Resource. Th
 
 Many thanks for your interest in contributing and please see below for ways you can contribute
 
-## Making Remixable HTML% Games using Thimble
+## Making Remixable HTML5 Games using Thimble
 
 We are using Phaser.io as our main frame for making HTML5 games and hosting examples at http://thimble.mozilla.org 
 
