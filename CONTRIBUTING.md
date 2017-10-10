@@ -5,12 +5,6 @@ We welcome your contributions to the Mozilla HTML5 Game Making Club Resource. Th
 Many thanks for your interest in contributing and please see below for ways you can contribute
 
 
-
-# Contributing to [Project]
-
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
-
 Restart your project vision here. Redundancy is your friend
 >[Project] is ...
 
