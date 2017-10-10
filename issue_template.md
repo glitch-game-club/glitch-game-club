@@ -1,3 +1,5 @@
+### If your issue is not about volunteering for this project please delete all text. 
+
 ### Type of help offered
 eg, Subject Mentor, In person Mentor (currently only Manchester, UK), Web Design
 
