@@ -6,7 +6,7 @@ Welcome to the Mozilla HTML5 Game Club Resource. Many thanks for taking the time
 
 ##  Mozilla HTML5 Game Club Resource in a Nutshell
 
-Creating a coding club to make Video Games to change the world and allow learners to be choose their own paths,  work collaboratively and be inspired to make great campaign messages
+This resource is about creating a coding club to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
 Fostering a new process and community to make and distribute  HTML5 “Video Games for Change”  where participants can contribute based on their own interests. 
 
