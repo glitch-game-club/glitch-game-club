@@ -32,25 +32,25 @@ We are using Phaser.io as our main frame for making HTML5 games and hosting exam
 
 Help us to build up a resource of simple games which can remixed by club members or used as examples to inspire their own creations. 
 
-Our current [list of starter games are here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#phaser-activities-and-sample-games-in-thimble)
+Our current [list of starter games are here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#starter-games--thimble-tutorials)
 
-## Sharing Game Assets and Tutorials on how to make them
+### Sharing Game Assets and Tutorials on how to make them
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+We are curating a list of [links to tools and tutorials on making your own audio / video game assets here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets).
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+### Documenting best practices on running Game Making Clubs
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+If you are an educator or researcher in this area, we would love you to share practice on how we can all best run Game Making Clubs. Some of the key challenges include, helping learners transition from visual coding to text coding, making our learning environment as accessible and appealing as possible and using physical assets to support concept learning. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
 
 ## How to submit changes
 
-We are happy for you to submit your changes by making a pull request on this repository with your new code or with links to existing material. If you are not sure how to use git then please email me on mick@flossmanuals.net
+Most of the material for this project [is in our wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) which you should be able to edit if you have a github account. If you are not sure how to use git then please email me on mick@flossmanuals.net
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+> Once you've identified one of the area above that you feel you can contribute to, you're ready to make a change to the project wiki!
  
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+> 1. **[Edit the Wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) of this repository**. You will need to create a GitHub account and log in before you can do this.
+> 2. **[Save your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
+
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
