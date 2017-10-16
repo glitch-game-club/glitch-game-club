@@ -2,29 +2,18 @@
 
 We welcome your contributions to the Mozilla HTML5 Game Making Club Resource. There are several ways that you can create resources and otherwise help the process. 
 
-Many thanks for your interest in contributing and please see below for ways you can contribute
+This resource is about creating a coding club to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
+This is a volunteer project and we can't do it without your help. This is a fantastically exciting area of emerging practice but unlike Scratch or commercial visual game making environments, there is still a need for user-friendly, beginner resources to get novice game makers, and club volunteers started and motivated. 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+>This document is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
-
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mick@flossmanuals.net](mailto:mick@flossmanuals.net).
 
-## What we're working on
+## What we're working on right now
 
 ### Making Remixable HTML5 Games using Thimble
 
@@ -56,13 +45,12 @@ Most of the material for this project [is in our wiki](https://github.com/mickfu
 
 ## How to report bugs
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
+Please be on the lookout for can any potential issue that might cause problems for the project. This may be content omissions or copy errors in our learning resources or any issues with the functionality or design of your project. 
 
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
 
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+> Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)!
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+TBD.
 
