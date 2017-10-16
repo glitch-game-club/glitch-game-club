@@ -32,7 +32,7 @@ We are using Phaser.io as our main frame for making HTML5 games and hosting exam
 
 Help us to build up a resource of simple games which can remixed by club members or used as examples to inspire their own creations. 
 
-There is an example of the Phaser game in Thimble https://thimbleprojects.org/mchesterman/301369/
+Our current [list of starter games are here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#phaser-activities-and-sample-games-in-thimble)
 
 ## Sharing Game Assets and Tutorials on how to make them
 
