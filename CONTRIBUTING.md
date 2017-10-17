@@ -32,10 +32,12 @@ We are curating a list of [links to tools and tutorials on making your own audio
 If you are an educator or researcher in this area, we would love you to share practice on how we can all best run Game Making Clubs. Some of the key challenges include, helping learners transition from visual coding to text coding, making our learning environment as accessible and appealing as possible and using physical assets to support concept learning. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
 
 ### An Inspirational HTML template for blogging and documentation
+We could use wordpress or tumblr or medium but....
+
 We would love to use Thimble as our main blogging and documentation platform. In this way we can involve participants in our blogging process and they will also learn about altering HTML code.
 
 However, we also want our web presense to be as inspirational as the contents of the club. So we are looking for a Web Designer to create a base page, a blogging template and a session documentation template. Could this be you?
-See this issue for details of the challenge. 
+See [this issue for details of the challenge](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/4). 
 
 ## How to submit changes
 
