@@ -28,7 +28,7 @@ We are looking for the following kinds of people to get involved; Young people a
 * [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go-to tools
 * [**Front End Web Designers:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#an-inspirational-html-template-for-blogging-and-documentation) to create a simple web presence which can be updated by Club participants as the project progresses
 * [**Families and School Clubs:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) we have two groups of families and young people involved but are looking for more starting January 2017 
-* [**Drama Practioners:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) we are working on drama scenarios to support our club activities
+* [**Drama Practioners:**](Club-Drama-Games-and-Scenarios) we are working on drama scenarios to support our club activities. [Please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeBLwjzwO1VZOlCUK5fqKJervl-gnMDiD9KPnohAM2nXrxUAA/viewform?usp=sf_link)
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information
 
