@@ -28,7 +28,7 @@ We are looking for the following kinds of people to get involved; Young people a
 * [**Web Mentors:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) you will be a subject enthusiast from one of the area of  activity
 * [**In Person / Local Mentors:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) (our pilot club in in Manchester, UK)
 * [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go-to tools
-* ]**Front End Web Designers:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#an-inspirational-html-template-for-blogging-and-documentation) to create a simple web presence which can be updated by Club participants as the project progresses
+* [**Front End Web Designers:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#an-inspirational-html-template-for-blogging-and-documentation) to create a simple web presence which can be updated by Club participants as the project progresses
 * [**Families and School Clubs:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) we have two groups of families and young people involved but are looking for more starting January 2017 
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information
