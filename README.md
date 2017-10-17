@@ -29,7 +29,7 @@ We are looking for the following kinds of people to get involved; Young people a
 * **In Person / Local Mentors:** (our pilot club in in Manchester, UK)
 * **Game and Resource Creators:** to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go to tools
 * **Front End Web Designers:** to create a simple web presence which can be updated by Club participants as the project progresses
-* **Families and School Clubs:** we have two groups of families and young people involved but are looking for more starting January 2017 
+* [**Families and School Clubs:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) we have two groups of families and young people involved but are looking for more starting January 2017 
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information
 
