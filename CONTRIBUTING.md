@@ -27,7 +27,7 @@ Our current [list of starter games are here](https://github.com/mickfuzz/mozilla
 
 We are curating a list of [links to tools and tutorials on making your own audio / video game assets here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets).
 
-### Documenting best practices on running Game Making Clubs
+### Documenting best educational practices on running Game Making Clubs
 
 If you are an educator or researcher in this area, we would love you to share practice on how we can all best run Game Making Clubs. Some of the key challenges include, helping learners transition from visual coding to text coding, making our learning environment as accessible and appealing as possible and using physical assets to support concept learning. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
 
@@ -39,6 +39,10 @@ We would love to use Thimble as our main blogging and documentation platform. In
 However, we also want our web presense to be as inspirational as the contents of the club. So we are looking for a Web Designer to create a base page, a blogging template and a session documentation template. Could this be you?
 See [this issue for details of the challenge](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/4). 
 
+### Writing and collaborating on Drama based games and scenarios to support club activities
+
+Game Making clubs are about more than just making game assets and coding. We promote the creation of a community of play to unlock our creative potential. This project started in partnership with the Manchester Met Drama teaching department. We have an area of this resource dedicated to drama games and role plays to build club rapport and bring real life issues to life. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
+
 ## How to submit changes
 
 Most of the material for this project [is in our wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) which you should be able to edit if you have a github account. If you are not sure how to use git then please email me on mick@flossmanuals.net
@@ -48,13 +52,11 @@ Most of the material for this project [is in our wiki](https://github.com/mickfu
 > 1. **[Edit the Wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) of this repository**. You will need to create a GitHub account and log in before you can do this.
 > 2. **[Save your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 
-
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 ## How to report bugs
 
 Please be on the lookout for can any potential issue that might cause problems for the project. This may be content omissions or copy errors in our learning resources or any issues with the functionality or design of your project. 
-
 
 > Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)!
 
