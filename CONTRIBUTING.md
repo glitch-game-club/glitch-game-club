@@ -78,9 +78,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ### Guidelines for Contributing games
 
-Please follow the following guidelines for the format and approach of your games. 
-
-An exemplar game can be viewed here. 
+Please follow the following guidelines for the format and approach of your games. [Sample games can be viewed here.](https://github.com/mickfuzz/mozilla_html5_game_clubs/tree/master/games) 
 
 #### Game Project Structure
 
@@ -93,10 +91,10 @@ An exemplar game can be viewed here.
 
 Please try to follow the following guidelines
 
-**Visibility of code**: Try to make the core code of your game as visible as possible. You may want to include your 
-
-**Avoid using too many functions** Try 
-
+ 1. **Visibility of code**: Try to make the core code of your game as visible as possible. You may want to include your 
+ 2. **Avoid using too many functions** Try to limit the complexity of your code by not nesting functions if you can avoid it to help novice coders
+ 3. **Use DR Principle** If you  Do Repeat some steps to avoid using more complicated coding structures that's ok. Prioritise clarity and readability over efficiency
+ 4. **Avoid new prototypes** and other meta structures when possible
 
 
 ## How to report bugs
