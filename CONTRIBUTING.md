@@ -17,9 +17,11 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 * [Sharing Game Assets and Tutorials](#sharing-game-assets-and-tutorials-on-how-to-make-them)
 * [Documenting Educational Practices](#sharing-game-assets-and-tutorials-on-how-to-make-them)
 * [Front End Design of a Blogging / Resource Template](#an-inspirational-html-template-for-blogging-and-documentation)
-* [Collaborating on Drama games and scenarios] (#collaborating-on-drama-based-games-for-the-game-making-club)
 
-* [How to Contribute Text-based Resources] (#collaborating-on-drama-based-games-for-the-game-making-club)
+
+
+* [Collaborating on Drama games and scenarios](#how-to-contribute-text-based-resources)
+* [How to Contribute Text-based Resources](#how-to-contribute-games-and-code-based-resources)
 
 
 ### Creating Boiler plate / Remixable HTML5 Games using Thimble
@@ -30,7 +32,7 @@ We are using Phaser.io javascript game framework as our main frame for making HT
 
 Our current [list of starter games are here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#starter-games--thimble-tutorials)
 
-To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game and contribute it. See below for details. 
+To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game and contribute it to the games section of our codebase via a pull request. [See below for more details](#how-to-contribute-games-and-code-based-resources). 
 
 ### Sharing Game Assets and Tutorials on how to make them
 
@@ -60,8 +62,6 @@ Most of the text-based material for this project [is in our wiki](https://github
  
 > 1. **[Edit the Wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) of this repository**. You will need to create a GitHub account and log in before you can do this.
 > 2. **[Save your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 
 ## How to Contribute Games and Code Based Resources
