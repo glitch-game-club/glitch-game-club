@@ -1,10 +1,10 @@
-# Welcome to the HTML5 Game Club Resource in a Nutshell
+# Welcome to the Mozilla HTML5 Game Making Club Resource 
 
 Welcome to the Mozilla HTML5 Game Club Resource. Many thanks for taking the time to look at our project. We hope this is a useful space and thank you in advance for any contribution you can make. 
 
 Currently this resource is to support the Manchester Mozilla Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
 
-##  Mozilla HTML5 Game Club Resource in a Nutshell
+##  Mozilla HTML5 Game Making Club Resource in a Nutshell
 
 This resource is about creating a coding club to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
