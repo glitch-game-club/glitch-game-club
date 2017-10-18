@@ -18,7 +18,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 * [Documenting Educational Practices](#sharing-game-assets-and-tutorials-on-how-to-make-them)
 * [Front End Design of a Blogging / Resource Template](#an-inspirational-html-template-for-blogging-and-documentation)
 
-
+### How to contribute 
 
 * [Collaborating on Drama games and scenarios](#how-to-contribute-text-based-resources)
 * [How to Contribute Text-based Resources](#how-to-contribute-games-and-code-based-resources)
