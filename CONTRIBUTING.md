@@ -15,9 +15,12 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 * [Creating Boilerplate HTML5 Games](#creating-boiler-plate--remixable-html5-games-using-thimble)
 * [Sharing Game Assets and Tutorials](#sharing-game-assets-and-tutorials-on-how-to-make-them)
-* [Documenting Educational Practices]()
-* [Front End Design of a Blogging / Resource Template]()
-* [Collaborating on Drama games and scenarios] ()
+* [Documenting Educational Practices](#sharing-game-assets-and-tutorials-on-how-to-make-them)
+* [Front End Design of a Blogging / Resource Template](#an-inspirational-html-template-for-blogging-and-documentation)
+* [Collaborating on Drama games and scenarios] (#collaborating-on-drama-based-games-for-the-game-making-club)
+
+* [How to Contribute Text-based Resources] (#collaborating-on-drama-based-games-for-the-game-making-club)
+
 
 ### Creating Boiler plate / Remixable HTML5 Games using Thimble
 
@@ -49,9 +52,9 @@ See [this issue for details of the challenge](https://github.com/mickfuzz/mozill
 
 Game Making clubs are about more than just making game assets and coding. We promote the creation of a community of play to unlock our creative potential. This project started in partnership with the Manchester Met Drama teaching department. We have an area of this resource dedicated to drama games and role plays to build club rapport and bring real life issues to life. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
 
-## Links or Educational tips to this resource
+## How to Contribute Text Based Resources
 
-Most of the material for this project [is in our wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) which you should be able to edit if you have a github account. If you are not sure how to use git then please email me on mick@flossmanuals.net
+Most of the text-based material for this project [is in our wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) which you should be able to edit if you have a github account. If you are not sure how to use git then please email me on mick@flossmanuals.net
 
 > Once you've identified one of the area above that you feel you can contribute to, you're ready to make a change to the project wiki!
  
@@ -61,7 +64,7 @@ Most of the material for this project [is in our wiki](https://github.com/mickfu
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 
-## How to submit your games to this resource
+## How to Contribute Games and Code Based Resources
 
 We imagine this code repository to be a base for Thimble Games. More inforation on this to come. 
 
