@@ -66,7 +66,38 @@ Most of the text-based material for this project [is in our wiki](https://github
 
 ## How to Contribute Games and Code Based Resources
 
-We imagine this code repository to be a base for Thimble Games. More inforation on this to come. 
+In general, we follow the "fork-and-pull" Git workflow.
+
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+### Guidelines for Contributing games
+
+Please follow the following guidelines for the format and approach of your games. 
+
+An exemplar game can be viewed here. 
+
+#### Game Project Structure
+
+ 1. **assets** include images and other assets used by the game in this folder
+ 2. **js** include your javascript files in here rather than linking out to online versions to make the project self contained
+ 3. **index.html** Please name a playable version of your game or a clear tutorial as index.html in your project
+ 4. **test offline** Try running your game project offline using Firefox, will it run or are there dependencies that make it unplayable offline?
+
+#### Game Code Guidelines
+
+Please try to follow the following guidelines
+
+**Visibility of code**: Try to make the core code of your game as visible as possible. You may want to include your 
+
+**Avoid using too many functions** Try 
+
+
 
 ## How to report bugs
 
