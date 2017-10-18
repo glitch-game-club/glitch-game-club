@@ -4,17 +4,17 @@ Welcome to the Mozilla HTML5 Game Club Resource. Many thanks for taking the time
 
 Currently this resource is to support the Manchester Mozilla Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
 
-##  Mozilla HTML5 Game Making Club Resource in a Nutshell
+##  In a Nutshell
 
-This resource is about creating a coding club to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
+We want to make Web Games to Change the World. This project aims to be a network of people to support issue-based, computer club activities, and a hub of resources to help such a process. Our particular focus will be on:
+
+* [Creating audio, visual and story assets](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets) for video games using free and open tools
+* [Coding web-based games in Javascript](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#html5-game-making-full-tutorials using phaser.io and the canvas based games and creating prototypes in Scratch
+* Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)
+
+We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
 Fostering a new process and community to make and distribute  HTML5 “Video Games for Change”  where participants can contribute based on their own interests. 
-
-This project aims to be a network of people to support issue-based, computer club activities, and a hub of resources to help such a process. Our particular focus will be on:
-
-* Creating audio, visual and story assets for video games using free and open tools
-* Coding web-based games in Javascript, phaser.io and the canvas based games and creating prototypes in Scratch
-* Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)
 
 ##  Getting involved in the Clubs
 
