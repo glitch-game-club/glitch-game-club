@@ -23,8 +23,8 @@ Please do use your Skills to Supporting the Club Process.
 We are looking for the following kinds of people to get involved; Young people and their guardians, teachers, HTML5 game creators, writers to help develop our stories and scenarios, researchers and campaigners.
 
 * [**Educational Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#documenting-best-practices-on-running-game-making-clubs) you will be a education practitioner who can advice us about how to to run and share our project outcomes or on useful resources. [Please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeBLwjzwO1VZOlCUK5fqKJervl-gnMDiD9KPnohAM2nXrxUAA/viewform?usp=sf_link)
-* [**Web Mentors:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) you will be a subject enthusiast from one of the area of  activity
-* [**In Person / Local Mentors:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) (our pilot club in in Manchester, UK)
+* [**Web Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues you will be a subject enthusiast from one of the area of  activity. [Please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
+* [**In Person / Local Mentors:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) (our pilot club in in Manchester, UK). [Please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 * [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go-to tools
 * [**Front End Web Designers:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#an-inspirational-html-template-for-blogging-and-documentation) to create a simple web presence which can be updated by Club participants as the project progresses
 * [**Families and School Clubs:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) we have two groups of families and young people involved but are looking for more starting January 2017 
