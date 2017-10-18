@@ -9,7 +9,7 @@ Currently this resource is to support the Manchester Mozilla Game Making Club bu
 We want to make Web Games to Change the World. This project aims to be a network of people to support issue-based, computer club activities, and a hub of resources to help such a process. Our particular focus will be on:
 
 * [Creating audio, visual and story assets](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets) for video games using free and open tools
-* [Coding web-based games in Javascript](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#html5-game-making-full-tutorials using phaser.io and the canvas based games and creating prototypes in Scratch
+* [Coding web-based games in Javascript](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#html5-game-making-full-tutorials) using phaser.io and the canvas based games and creating prototypes in Scratch
 * Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)
 
 We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
