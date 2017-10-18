@@ -15,13 +15,15 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on right now
 
-### Making Remixable HTML5 Games using Thimble
+### Creating Boiler plate / Remixable HTML5 Games using Thimble
 
-We are using Phaser.io as our main frame for making HTML5 games and hosting examples at http://thimble.mozilla.org 
+Can you write a simple game demo in Javascript? Help us create a resource of simple games which can remixed by club members or used as examples to inspire their own creations. 
 
-Help us to build up a resource of simple games which can remixed by club members or used as examples to inspire their own creations. 
+We are using Phaser.io javascript game framework as our main frame for making HTML5 games and hosting examples at http://thimble.mozilla.org 
 
 Our current [list of starter games are here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#starter-games--thimble-tutorials)
+
+To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game and contribute it. See below for details. 
 
 ### Sharing Game Assets and Tutorials on how to make them
 
@@ -43,7 +45,7 @@ See [this issue for details of the challenge](https://github.com/mickfuzz/mozill
 
 Game Making clubs are about more than just making game assets and coding. We promote the creation of a community of play to unlock our creative potential. This project started in partnership with the Manchester Met Drama teaching department. We have an area of this resource dedicated to drama games and role plays to build club rapport and bring real life issues to life. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
 
-## How to submit changes
+## How to submit your games, links or educational tips to this resource
 
 Most of the material for this project [is in our wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) which you should be able to edit if you have a github account. If you are not sure how to use git then please email me on mick@flossmanuals.net
 
@@ -53,6 +55,11 @@ Most of the material for this project [is in our wiki](https://github.com/mickfu
 > 2. **[Save your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+
+
+## How to submit your games to this resource
+
+We imagine this code repository to be a base for Thimble Games. More inforation on this to come. 
 
 ## How to report bugs
 
