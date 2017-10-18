@@ -14,7 +14,10 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 ## What we're working on right now
 
 * [Creating Boilerplate HTML5 Games](#creating-boiler-plate--remixable-html5-games-using-thimble)
-* [Creating Boilerplate HTML5 Games](#creating-boiler-plate--remixable-html5-games-using-thimble)
+* [Sharing Game Assets and Tutorials](#sharing-game-assets-and-tutorials-on-how-to-make-them)
+* [Documenting Educational Practices]()
+* [Front End Design of a Blogging / Resource Template]()
+* [Collaborating on Drama games and scenarios] ()
 
 ### Creating Boiler plate / Remixable HTML5 Games using Thimble
 
@@ -42,11 +45,11 @@ We would love to use Thimble as our main blogging and documentation platform. In
 However, we also want our web presense to be as inspirational as the contents of the club. So we are looking for a Web Designer to create a base page, a blogging template and a session documentation template. Could this be you?
 See [this issue for details of the challenge](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/4). 
 
-### Writing and collaborating on Drama based games and scenarios to support club activities
+### Collaborating on Drama based games for the Game Making Club
 
 Game Making clubs are about more than just making game assets and coding. We promote the creation of a community of play to unlock our creative potential. This project started in partnership with the Manchester Met Drama teaching department. We have an area of this resource dedicated to drama games and role plays to build club rapport and bring real life issues to life. [Please contribute here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs). 
 
-## How to submit your games, links or educational tips to this resource
+## Links or Educational tips to this resource
 
 Most of the material for this project [is in our wiki](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki) which you should be able to edit if you have a github account. If you are not sure how to use git then please email me on mick@flossmanuals.net
 
