@@ -1,8 +1,6 @@
-# Contributing to HTML5 Game Clubs
+# Contributing to HTML5 Game Making Clubs
 
-We welcome your contributions to the Mozilla HTML5 Game Making Club Resource. There are several ways that you can create resources and otherwise help the process. 
-
-This resource is about creating a coding club to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
+We welcome your contributions to the Mozilla HTML5 Game Making Club Resource. This resource suports individuals or coding clubs to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
 This is a volunteer project and we can't do it without your help. This is a fantastically exciting area of emerging practice but unlike Scratch or commercial visual game making environments, there is still a need for user-friendly, beginner resources to get novice game makers, and club volunteers started and motivated. 
 
@@ -14,6 +12,9 @@ This is a volunteer project and we can't do it without your help. This is a fant
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mick@flossmanuals.net](mailto:mick@flossmanuals.net).
 
 ## What we're working on right now
+
+* [Creating Boilerplate HTML5 Games](#creating-boiler-plate--remixable-html5-games-using-thimble)
+* [Creating Boilerplate HTML5 Games](#creating-boiler-plate--remixable-html5-games-using-thimble)
 
 ### Creating Boiler plate / Remixable HTML5 Games using Thimble
 
