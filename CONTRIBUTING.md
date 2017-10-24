@@ -1,4 +1,4 @@
-# Contributing to HTML5 Game Making Clubs
+# Contributing to WebGame Making Clubs
 
 We welcome your contributions to the Mozilla HTML5 Game Making Club Resource. This resource suports individuals or coding clubs to make Video Games to change the world. We help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
@@ -24,11 +24,11 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 * [How to Contribute Text-based Resources](#how-to-contribute-games-and-code-based-resources)
 
 
-### Creating Boiler plate / Remixable HTML5 Games using Thimble
+### Creating Boiler plate / Remixable Web Games using Thimble
 
 Can you write a simple game demo in Javascript? Help us create a resource of simple games which can remixed by club members or used as examples to inspire their own creations. 
 
-We are using Phaser.io javascript game framework as our main frame for making HTML5 games and hosting examples at http://thimble.mozilla.org 
+We are using Phaser.io javascript game framework as our beginner framework for making HTML5 games and hosting examples at http://thimble.mozilla.org. We also invite other types of Javascript games using the DOM especially if they are aimed at beginners. 
 
 Our current [list of starter games are here](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#starter-games--thimble-tutorials)
 
