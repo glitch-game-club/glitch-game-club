@@ -4,6 +4,8 @@ Welcome to the Mozilla HTML5 Game Club Resource. Many thanks for taking the time
 
 Currently this resource is to support the Manchester Mozilla Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
 
+![game club logo](branding/webgame_making_mozilla_club.png)
+
 ##  In a Nutshell
 
 We want to make Web Games to Change the World. This project aims to be a network of people to support issue-based, computer club activities to make games. Together we will create a hub of resources to help this happen. Our particular focus will be on:
