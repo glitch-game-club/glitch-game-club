@@ -85,17 +85,25 @@ Please follow the following guidelines for the format and approach of your games
  1. **assets** include images and other assets used by the game in this folder
  2. **js** include your javascript files in here rather than linking out to online versions to make the project self contained
  3. **index.html** Please name a playable version of your game or a clear tutorial as index.html in your project
- 4. **test offline** Try running your game project offline using Firefox, will it run or are there dependencies that make it unplayable offline?
 
-#### Game Code Guidelines
+Other tips and tests:
+
+**Will it work offline?** Try running your game project offline using Firefox, will it run or are there dependencies that make it unplayable offline?
+
+
+#### Your Javascript
+
+
+
+#### Javascript Game Code Guidelines
 
 Please try to follow the following guidelines
 
- 1. **Visibility of code**: Try to make the core code of your game as visible as possible. You may want to include your 
- 2. **Avoid using too many functions** Try to limit the complexity of your code by not nesting functions if you can avoid it to help novice coders
- 3. **Use DR Principle** If you  Do Repeat some steps to avoid using more complicated coding structures that's ok. Prioritise clarity and readability over efficiency
- 4. **Avoid new prototypes** and other meta structures when possible
-
+* **Visibility of code**: Try to make the core code of your game as visible as possible. You may want to include your code in side the projects index.html file or in one game.js file 
+* **Avoid using too many functions** Try to limit the complexity of your code by not nesting functions if you can avoid it to help novice coders
+* **Please try to avoid jQuery** or other helper frameworks if they are not needed. jQuery is great but plain JS helps makes our code examples clearer to read and consistent. 
+* **Use DR Principle** If you  Do Repeat some steps to avoid using more complicated coding structures that's ok. Prioritise clarity and readability over efficiency
+ 
 
 ## How to report bugs
 
