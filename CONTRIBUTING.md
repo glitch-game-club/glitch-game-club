@@ -111,7 +111,5 @@ Please be on the lookout for can any potential issue that might cause problems f
 
 > Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)!
 
-## Communication channels
 
-TBD.
 
