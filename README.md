@@ -16,6 +16,13 @@ We want to make Web Games to Change the World. This project aims to be a network
 
 We will help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
+### Example Web Game in Thimble
+
+We are actively seeking simple 'boilerplate' games in Thimble to add to this list. See below for details on how to contribute. 
+
+* [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
+
+
 ##  Getting involved in the Clubs and our Resource
 
 Please join us to support the Game Making Club Process and the Resources we are creating. 
