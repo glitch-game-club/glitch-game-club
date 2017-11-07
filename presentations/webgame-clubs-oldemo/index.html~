@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>WebGame Making Mozilla Clubs Resource</title>
+    <meta name="description" content="A presentation on a resource to help the process of making Games for the Web aimed at novice text coders. ">
+    <meta name="author" content="mickfuzz" >
+
+    <link rel="stylesheet" href="../lib/tabzilla/css/tabzilla.css"/>
+    <link rel="stylesheet" href="../lib/reveal/css/reveal.css"/>
+    <link rel="stylesheet" href="../lib/reveal/css/theme/mozilla-devrel-light.css"/>
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="../lib/reveal/lib/css/solarized-light.css" />
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '../lib/reveal/css/print/pdf.css' : '../lib/reveal/css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+  </head>
+
+  <body>
+    <section id="tabzilla">
+      <a href="https://www.mozilla.org/">Mozilla</a>
+    </section>
+
+    <div class="reveal">
+
+      <div class="slides">
+        <section>
+          <h1>Webgame Making Mozilla Clubs</h1>
+        </section>
+
+        <section>
+          <h2>People like playing Video Games.</h2>
+          <p style="text-align:right">
+            <a href="https://dmlcentral.net/wp-content/uploads/files/Civic_Potential_of_Games.pdf" target="_blank">Who Knew?</a>
+          </p>
+        </section>
+
+	       <section>
+          <h2>So, how can we use video game making to help learn text based coding?</h2>
+        </section>
+		
+        <section>
+          <ol>
+				<li>Current Landscape</li>
+            <li>Why Webgame Making</li>
+            <li>Our Pilot Projects</li>
+            <li>Learning Principles</li>
+            <li>Participation &amp; Community</li>
+          </ol>
+        </section>
+
+        <section>
+          <section>
+            <h2>Past Successes in teaching Coding</h2>
+          </section>
+
+          <section>
+            <h3>
+              Scratch, Thimble, Sonic Pi & Raspberry Pi
+            </h3>
+							<p class="fragment">
+								<img src="img/scratch.png" class="plain" style="float:left; width: 450px; height:auto;"/>
+							</p>
+							<p class="fragment">
+								<img src="img/thimble.png" class="plain" style="float:right; width: 450px; height:auto;"/>
+							</p>
+							<br clear="all">
+							<p class="fragment">
+								<img src="img/sonic_pi.png" class="plain" style="float:left; width: 450px; height:auto;"/>
+							</p>							
+							<p class="fragment">
+								<img src="img/rpi.png" class="plain" style="float:right; width: 450px; height:auto;"/>
+							</p>
+							<aside class="notes">
+              A quick overview of the projects above
+            </aside>
+          </section>
+
+          <section>
+            <h3>
+              Where are the Gaps?
+            </h3>
+            <p class="fragment">
+              These are fantastic projects but while Scratch can leverage the attractive power of video games, it is not a real coding environment.
+            </p>
+
+          </section>
+
+         
+        </section>
+
+        <section>
+          <section>
+            <h2>So what about Web Games</h2>
+          </section>
+
+          <section>
+            <h3>About Javascript Games</h3>
+            <p>
+              While Flash used to rule the roost of browser based games, HTML and Javascript games are now mature with many frameworks to support. 
+            </p>
+          </section>
+
+          <section>
+            <p>
+              One framework of special interest is <a href="https://phaser.io">Phaser</a> which as a low threshold for novice coders, good existing tutorials and a very active support forum.
+            </p>
+          </section>
+          <section>
+            <h3>Sample Platform Tutorial</h3>
+						<p class="fragment">
+							<a href="https://thimbleprojects.org/piratepete/334344/"><img src="img/platform_for_pres.png" class="plain" style=" width: 850px; height:auto;"/></a>
+						</p>
+          </section>
+          <section>
+            <h3>Sample Flappy Bird Tutorial</h3>
+						<p class="fragment">
+							<a href="https://thimbleprojects.org/piratepete/349253/"><img src="img/bird_for_pres.png" class="plain" style=" width: 850px; height:auto;"/></a>
+						</p>
+          </section>
+			</section>
+			
+			
+        <section>
+
+          <section>
+            <h2>Current Pilot Projects</h2>
+
+          </section>
+
+          <section>
+            <h3>Rolls Cresent Primary, Manchester</h3>
+						<p class="fragment">
+							<img src="img/rolls_cresent.jpg" class="plain" style=" width: 850px; height:auto;"/>
+						</p>
+          </section>
+
+          <section>
+            <h3>Home Ed Families, Manchester</h3>
+						<p class="fragment">
+							<img src="img/home_ed.jpg" class="plain" style=" width: 850px; height:auto;"/>
+						</p>
+          </section>
+          <section>
+            <h3>Scavengers, Hebden Bridge</h3>
+						<p class="fragment">
+							<img src="img/scavangers.jpg" class="plain" style=" width: 850px; height:auto;"/>
+						</p>
+          </section>          
+  			</section>
+			
+			
+
+        <section>
+          <section>
+            <h2>Deeper Webmaking Learning Principles</h2>
+          </section>
+
+          <section>
+            <p>
+              Game Making Mozilla Clubs build on the wider concepts of Webmaking, Physical Making and Software Tinkering 
+            </p>
+          </section>
+
+          <section>
+            <h3>
+              Learning in Webgame Clubs is: 
+            </h3>
+            <p>
+            <ol>
+            <li>Based on real life civic problems</li>
+            <li>Creates a wide variety of game assets using FLOSS tools</li>
+            <li>Builds games using core web technologies</li>
+          </ol>
+            </p>
+          </section>
+          
+          
+           <section>
+            <h2>Based on real life civic problems</h2>
+            <p class="fragment">
+              Because social concerns should drive tech not the other way around
+            </p>
+
+          </section>
+
+           <section>
+            <h2>Creates a wide variety of game assets using FLOSS tools</h2>
+            <p class="fragment">
+              As this supports a multiple paths approach of an open an accessible tinkering, making ecology
+            </p>
+
+          </section>
+           <section>
+            <h2>Uses core web technologies rather than a sandbox</h2>
+            <p class="fragment">
+              JS will run in any modern browser, so there is no restriction to how skills learned can be used in other web coding situations
+            </p>
+
+          </section>
+          </section>
+
+        <section>
+          <section>
+            <h2>Participation &amp; Community</h2>
+          </section>
+
+          <section>
+            <p>
+              Mozilla Clubs provide a good test bed for trialling these activities. But you can help us in the making stage.
+            </p>
+          </section>
+
+          <section>
+            <p>
+              Participation is not limited to tech people.
+            </p>
+          </section>
+          
+          <section>
+            <h3>Needed Right Now</h3>
+            <p class="fragment">
+              Educators to review and road test resources and processes, how can foreground certain learning principles while maintaining interest driven process.
+            </p>
+
+            <p class="fragment">
+					Game makers and coders to write sample mini games for remixing, and evolve a shared coding convention for beginner focused games
+            </p>
+            
+            <p class="fragment">
+					Networkers to help spread the word, create gifs, identify key messages to tweet and network. 
+            </p>
+          </section>
+
+
+        	<section>
+				<p>
+					<a href="https://github.com/webgameclubs/mozilla-webgame-clubs"><img src="img/webgame_making_mozilla_club.png" class="plain" style=" width: 650px; height:auto;"/></a>
+				</p>          
+          <p>Mick Fuzz Chesterman - <a href="https://twitter.com/mickfuzz">@mickfuzz</a></p>
+          <p><a href="https://github.com/webgameclubs/mozilla-webgame-clubs">https://github.com/webgameclubs/mozilla-webgame-clubs</a></p>
+          <p><a href="https://delapuente.github.io/presentations/">https://digitalducks.org/mozilla-webgames-club/></p>
+        </section>
+       </section>
+
+      </div>
+
+    </div>
+
+    <script src="../lib/reveal/lib/js/head.min.js"></script>
+    <script src="../lib/reveal/js/reveal.js"></script>
+
+    <script>
+      // More info https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        history: true,
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [
+          { src: '../lib/reveal/plugin/markdown/marked.js' },
+          { src: '../lib/reveal/plugin/markdown/markdown.js' },
+          { src: '../lib/reveal/plugin/notes/notes.js', async: true },
+          { src: '../lib/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+        ]
+      });
+    </script>
+  </body>
+</html>
