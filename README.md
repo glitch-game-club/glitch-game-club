@@ -1,4 +1,4 @@
-# Welcome to the Mozilla HTML5 Game Making Club Resource 
+# Welcome to the Manchester Hive Game Making Club Resource 
 
 Welcome to the Mozilla HTML5 Game Club Resource. Many thanks for taking the time to look at our project. We hope this is a useful space and thank you in advance for any contribution you can make. 
 
