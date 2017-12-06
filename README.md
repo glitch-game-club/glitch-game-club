@@ -1,8 +1,8 @@
 # Welcome to the EdLab Game Making Club Resource 
 
-Welcome to the Mozilla HTML5 Game Club Resource. Many thanks for taking the time to look at our project. We hope this is a useful space and thank you in advance for any contribution you can make. 
+Welcome to the EdLab Game Club Resource. Many thanks for taking the time to look at our project. We hope this is a useful space and thank you in advance for any contribution you can make. 
 
-Currently this resource is to support the Manchester Mozilla Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
+Currently this resource is to support the EdLab Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
 
 ![game club logo](branding/webgame_making_mozilla_club.png)
 
