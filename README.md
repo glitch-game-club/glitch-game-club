@@ -4,7 +4,7 @@ Welcome to the EdLab Game Club Resource. Many thanks for taking the time to look
 
 Currently this resource is to support the EdLab Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
 
-![game club logo](branding/webgame_making_mozilla_club.png)
+![game club logo](branding/webgame_making_edlab_club_800.png)
 
 ##  In a Nutshell
 
