@@ -1,0 +1,98 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+    <meta charset="UTF-8" />
+    <title>Phaser Platform</title>
+    <script type="text/javascript" src="/js/phaser.js"></script>
+    <style type="text/css">
+        html, body, #game { height: 100%; }
+        body{margin: 0; padding: 0;}
+    </style>
+</head>
+<body>
+    <div id="game"></div>
+    <script type="text/javascript">
+        var game = new Phaser.Game(480, 360, Phaser.AUTO, 'game', { preload: preload, create: create, update: update},false,false);
+        function preload() {
+          //preload simple images
+          game.load.image('sky', 'assets/background.gif');
+          game.load.image('ground', 'assets/platform.png');
+          game.load.spritesheet('player', 'assets/player.png', 16, 16); 
+        }
+
+        var player;
+        var platforms;
+        var cursors;
+  
+        function create() {
+            game.world.enableBody = true;
+            game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
+            game.scale.pageAlignHorizontally = true;
+            game.scale.pageAlignVertically = true;
+            game.physics.startSystem(Phaser.Physics.ARCADE);
+
+            // A simple background for our game - start showing image at top left 0,0
+            game.add.sprite(0, 0, 'sky');
+   
+            //  The platforms group contains the ground and the 2 ledges we can jump on
+            platforms = game.add.group();
+
+            //  We will enable physics for any object that is created in this group
+            platforms.enableBody = true;
+            var ground = platforms.create(0, game.world.height - 32, 'ground');
+            //  Scale it to fit the width of the game x2 (the original sprite is 400x32 in size)
+            ground.scale.setTo(1.2);
+            //  This stops it from falling away when you jump on it
+            ground.body.immovable = true;
+            //  Now let's create two ledges - set them to not move on collision
+            var ledge = platforms.create(200, 200, 'ground');
+            ledge.body.immovable = true;
+
+            ledge = platforms.create(-150, 100, 'ground');
+            ledge.body.immovable = true;
+    
+            // The player and its settings
+            player = game.add.sprite(32, game.world.height - 250, 'player');
+            player.scale.setTo(2);
+
+            //  We need to enable physics on the player
+            game.physics.arcade.enable(player);
+
+            //  Player physics properties. Give the little guy a slight bounce.
+            player.body.bounce.y = 0.2;
+            //set how strong gravity is
+            player.body.gravity.y = 600;
+            //don't let player go out of bounds
+            player.body.collideWorldBounds = true;
+
+            //  Our controls.
+            cursors = game.input.keyboard.createCursorKeys();    
+    }
+
+    function update() {
+        //  Collide the player and the stars with the platforms
+        game.physics.arcade.collide(player, platforms);
+      
+        //  Reset the players velocity (movement)
+        player.body.velocity.x = 0;
+
+        if (cursors.left.isDown) {
+            //  Move to the left
+            player.body.velocity.x = -150;
+        } else if (cursors.right.isDown) {
+            //  Move to the right
+            player.body.velocity.x = 150;
+        } else {
+            //  Stand still
+            player.animations.stop();
+            player.frame = 4;
+        }
+        
+        //  Allow the player to jump if they are touching the ground.
+        if (cursors.up.isDown && player.body.touching.down) {
+            player.body.velocity.y = -350;
+        }
+    }
+</script>
+</body>
+</html>
