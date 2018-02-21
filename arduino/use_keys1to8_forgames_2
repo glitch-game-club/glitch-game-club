@@ -1,0 +1,120 @@
+//SONIC PI RUN/STOP CONTROLLER
+//Juneau Projects
+//N.B. Make sure you are using an Arduino Leonardo
+
+const int buttonPin1 = 1;
+const int buttonPin2 = 2;
+const int buttonPin3 = 3;
+const int buttonPin4 = 4;
+const int buttonPin5 = 5;
+const int buttonPin6 = 6;
+const int buttonPin7 = 7;
+const int buttonPin8 = 8;
+
+
+int previousButtonState1 = HIGH;
+int previousButtonState2 = HIGH;
+int previousButtonState3 = HIGH;
+int previousButtonState4 = HIGH;
+int previousButtonState5 = HIGH;
+int previousButtonState6 = HIGH;
+int previousButtonState7 = HIGH;
+int previousButtonState8 = HIGH;
+
+char ctrlKey = KEY_LEFT_CTRL; //if you are using this code with a mac you will need to change KEY_LEFT_CTRL
+// to KEY_LEFT_GUI
+
+void setup() {
+  pinMode(buttonPin1, INPUT_PULLUP);
+  pinMode(buttonPin2, INPUT_PULLUP); 
+  pinMode(buttonPin3, INPUT_PULLUP);
+  pinMode(buttonPin4, INPUT_PULLUP); 
+  pinMode(buttonPin5, INPUT_PULLUP);
+  pinMode(buttonPin6, INPUT_PULLUP); 
+  pinMode(buttonPin7, INPUT_PULLUP);
+  pinMode(buttonPin8, INPUT_PULLUP); 
+  Keyboard.begin();
+}
+
+void loop() {
+
+
+    int buttonState1 = digitalRead(buttonPin1);
+   if ((buttonState1 != previousButtonState1) 
+  && (buttonState1 == HIGH)) {
+    Keyboard.press('1'); 
+    delay (2); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState1 = buttonState1;
+  
+  int buttonState2 = digitalRead(buttonPin2);
+   if ((buttonState2 != previousButtonState2) 
+  && (buttonState2 == HIGH)) {
+    Keyboard.press('2'); 
+    delay (2); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState2 = buttonState2;
+  
+
+  int buttonState3 = digitalRead(buttonPin3);
+   if ((buttonState3 != previousButtonState3) 
+  && (buttonState3 == HIGH)) {
+    Keyboard.press('3'); 
+    delay (3); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState3 = buttonState3;
+
+  int buttonState4 = digitalRead(buttonPin4);
+   if ((buttonState4 != previousButtonState4) 
+  && (buttonState4 == HIGH)) {
+    Keyboard.press('4'); 
+    delay (4); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState4 = buttonState4;
+
+  int buttonState5 = digitalRead(buttonPin5);
+   if ((buttonState5 != previousButtonState5) 
+  && (buttonState5 == HIGH)) {
+    Keyboard.press('5'); 
+    delay (5); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState5 = buttonState5;
+
+  int buttonState6 = digitalRead(buttonPin6);
+   if ((buttonState6 != previousButtonState6) 
+  && (buttonState6 == HIGH)) {
+    Keyboard.press('6'); 
+    delay (6); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState6 = buttonState6;
+
+  int buttonState7 = digitalRead(buttonPin7);
+   if ((buttonState7 != previousButtonState7) 
+  && (buttonState7 == HIGH)) {
+    Keyboard.press('7'); 
+    delay (7); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState7 = buttonState7;
+
+  int buttonState8 = digitalRead(buttonPin8);
+   if ((buttonState8 != previousButtonState8) 
+  && (buttonState8 == HIGH)) {
+    Keyboard.press('8'); 
+    delay (8); 
+    Keyboard.releaseAll();
+  }
+  previousButtonState8 = buttonState8;  
+
+  
+  //Keyboard.releaseAll();
+  //delay(10);
+//if you find your buttons are triggering erratically then uncomment the two lines above
+}
+
