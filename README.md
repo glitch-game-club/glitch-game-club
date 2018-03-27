@@ -46,7 +46,7 @@ Please take time to review our [code of conduct](CODE_OF_CONDUCT.md) aimed at yo
 
 You can view some of our activity  at the following locations:
 
-* [Our Project Blog](https://digitalducks.org/mozilla-webgame-club/)
+* [Our Project Blog](https://digitalducks.org/webgames-club/)
 * Follow Discussions [on our Issues page](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)
 * [Volunteer for a role](#getting-involved-in-the-clubs-and-our-resource) 
 * [Our Wiki for Resources sharing](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki)
