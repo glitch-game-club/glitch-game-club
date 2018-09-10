@@ -1,0 +1,110 @@
+
+//N.B. Make sure you are using an Arduino Leonardo
+
+const int buttonPin1 = 1;
+const int buttonPin2 = 2;
+const int buttonPin3 = 3;
+const int buttonPin4 = 4;
+const int buttonPin5 = 5;
+const int buttonPin6 = 6;
+const int buttonPin7 = 7;
+const int buttonPin8 = 8;
+
+
+int previousButtonState1 = HIGH;
+int previousButtonState2 = HIGH;
+int previousButtonState3 = HIGH;
+int previousButtonState4 = HIGH;
+int previousButtonState5 = HIGH;
+int previousButtonState6 = HIGH;
+int previousButtonState7 = HIGH;
+int previousButtonState8 = HIGH;
+
+char ctrlKey = KEY_LEFT_CTRL; //if you are using this code with a mac you will need to change KEY_LEFT_CTRL
+// to KEY_LEFT_GUI
+
+void setup() {
+  pinMode(buttonPin1, INPUT_PULLUP);
+  pinMode(buttonPin2, INPUT_PULLUP);
+  pinMode(buttonPin3, INPUT_PULLUP);
+  pinMode(buttonPin4, INPUT_PULLUP);
+  pinMode(buttonPin5, INPUT_PULLUP);
+  pinMode(buttonPin6, INPUT_PULLUP);
+  pinMode(buttonPin7, INPUT_PULLUP);
+  pinMode(buttonPin8, INPUT_PULLUP);
+  Keyboard.begin();
+}
+
+void loop() {
+
+
+    int buttonState1 = digitalRead(buttonPin1);
+     if (buttonState1 == LOW) {
+      Keyboard.press('1');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState2 = digitalRead(buttonPin2);
+     if (buttonState2 == LOW) {
+      Keyboard.press('2');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState3 = digitalRead(buttonPin3);
+     if (buttonState3 == LOW) {
+      Keyboard.press('3');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState4 = digitalRead(buttonPin4);
+     if (buttonState4 == LOW) {
+      Keyboard.press('4');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState5 = digitalRead(buttonPin5);
+     if (buttonState5 == LOW) {
+      Keyboard.press('5');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState6 = digitalRead(buttonPin6);
+     if (buttonState6 == LOW) {
+      Keyboard.press('6');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState7 = digitalRead(buttonPin7);
+     if (buttonState7 == LOW) {
+      Keyboard.press('7');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+    int buttonState8 = digitalRead(buttonPin8);
+     if (buttonState8 == LOW) {
+      Keyboard.press('8');
+      }
+     else {    
+       Keyboard.releaseAll();
+      }
+
+
+
+  }
+
+
+
