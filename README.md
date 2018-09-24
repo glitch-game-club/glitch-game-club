@@ -32,12 +32,7 @@ Please join us to support the Game Making Club Process and the Resources we are 
 Can you help us in one of the following ways to get involved?
 
 * [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go-to tools. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
-* [**Families, Schools and Youth Clubs:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) we have two groups of families and young people involved but are looking for more starting January 2017 [Please sign up here](https://goo.gl/forms/gobJ9fOPm1XouBp72)
-* [**In Person / Local Mentors:**](https://goo.gl/forms/gobJ9fOPm1XouBp72) (our pilot club in in Manchester, UK). [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
-* [**Educational Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#documenting-best-practices-on-running-game-making-clubs) you will be a education practitioner who can advice us about how to to run and share our project outcomes or on useful resources. [Please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeBLwjzwO1VZOlCUK5fqKJervl-gnMDiD9KPnohAM2nXrxUAA/viewform?usp=sf_link)
 * [**Web Coding Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues) you will be a subject enthusiast from one of the area of activity. You volunteer for either video chats, to give feedback on projects or to answer forum questions. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
-
-
 
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information
