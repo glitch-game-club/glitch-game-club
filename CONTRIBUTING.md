@@ -10,7 +10,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 * [Creating Boilerplate Games with Phaser](#creating-boiler-plate--remixable-html5-games-using-thimble)
 * [A Blogging / Resource Template](#an-inspirational-html-template-for-blogging-and-documentation)
-* [Contribute to our resources on Asset Creating & Facilitation](#an-inspirational-html-template-for-blogging-and-documentation)
+* [Contribute to our resources on Asset Creating & Facilitation](#sharing-game-assets-and-tutorials-on-how-to-make-them)
 
 ## Creating Boiler plate / Remixable Web Games using Glitch
 
