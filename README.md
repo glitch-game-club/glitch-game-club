@@ -43,6 +43,5 @@ You can view some of our activity  at the following locations:
 
 * [Our Project Blog](https://digitalducks.org/webgames-club/)
 * Follow Discussions [on our Issues page](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)
-* [Volunteer for a role](#getting-involved-in-the-clubs-and-our-resource) 
 * [Our Wiki for Resources sharing](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki)
 * [If you get stuck Coding please ask questions here](https://discourse.mozilla.org/t/learning-web-development-marking-guides-and-questions/16294)
