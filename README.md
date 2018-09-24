@@ -16,12 +16,13 @@ We want to make Web Games to Change the World. This project aims to be a network
 
 We will help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
-### Example Web Game in Thimble
+### Example Web Games in Glitch
 
-We are actively seeking simple 'boilerplate' games in Thimble to add to this list. See below for details on how to contribute. 
+We are actively seeking simple 'boilerplate' games in [Glitch](https://glitch.com/) to add to this list. See below for details on how to contribute. 
 
-* [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
-* [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
+* [Simple Game Created to Be Edited](https://webgameclubs-simple-game-to-edit.glitch.me/)
+* (Using old Thimble system) [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
+* (Using old Thimble system)  [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
 
 
 ##  Getting involved in the Clubs and our Resource
