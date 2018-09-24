@@ -4,19 +4,7 @@ Welcome to the EdLab Game Club Resource. Many thanks for taking the time to look
 
 Currently this resource is to support the EdLab Game Making Club but we hope it will be of wider use so we are inviting other clubs and interested parties to contribute. 
 
-![game club logo](branding/webgame_making_edlab_club_800.png)
-
-##  In a Nutshell
-
-We want to make Web Games to Change the World. This project aims to be a network of people to support issue-based, computer club activities to make games. Together we will create a hub of resources to help this happen. Our particular focus will be on:
-
-* [Creating audio, visual and story assets](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets) for video games using free and open tools
-* [Coding web-based games in Javascript](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#html5-game-making-full-tutorials) using phaser.io and the canvas based games and creating prototypes in Scratch
-* [Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)](https://github.com/mickfuzz/mozilla-webgame-clubs/wiki/Teaching-and-Learning-Tips-for-Game-Making-Clubs)
-
-We will help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
-
-### Example Web Games in Glitch
+### Remixable Web Games in Glitch
 
 We are actively seeking simple 'boilerplate' games in [Glitch](https://glitch.com/) to add to this list. See below for details on how to contribute. 
 
@@ -24,6 +12,15 @@ We are actively seeking simple 'boilerplate' games in [Glitch](https://glitch.co
 * [2d Breakout Game by end3r](https://vivid-typhoon.glitch.me/)
 * (Using old Thimble system) [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
 * (Using old Thimble system)  [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
+
+![game club logo](branding/webgame_making_edlab_club_800.png)
+
+
+We want to make Web Games to Change the World. This project aims to be a network of people to support issue-based, computer club activities to make games. Together we will create a hub of resources to help this happen. Our particular focus will be on:
+[Creating audio, visual and story assets](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets) for video games using free and open tools, [Coding web-based games in Javascript](https://github.com/webgameclubs/edlab-gamemakers-club#example-web-games-in-glitch) using Phaser.js, [Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)](http://write.flossmanuals.net/learn-javascript-with-phaser/)
+
+We will help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
+
 
 
 ##  Getting involved in the Clubs and our Resource
