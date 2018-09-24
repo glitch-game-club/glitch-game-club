@@ -45,5 +45,4 @@ You can view some of our activity  at the following locations:
 * Follow Discussions [on our Issues page](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)
 * [Volunteer for a role](#getting-involved-in-the-clubs-and-our-resource) 
 * [Our Wiki for Resources sharing](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki)
-* [Invite Google Group for our current Manchester Club cohort](https://groups.google.com/forum/#!forum/mozilla-html5-gamemaking-mcr)
 * [If you get stuck Coding please ask questions here](https://discourse.mozilla.org/t/learning-web-development-marking-guides-and-questions/16294)
