@@ -12,7 +12,7 @@ We are actively seeking simple 'boilerplate' games in [Glitch](https://glitch.co
 * [Simple Game Created to Be Edited](https://webgameclubs-simple-game-to-edit.glitch.me/)
 * [2d Breakout Game by end3r](https://vivid-typhoon.glitch.me/)
 * (Using old Thimble system) [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
-
+* (Using old Thimble system)  [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
 
 ![game club logo](branding/webgame_making_edlab_club_800.png)
 
