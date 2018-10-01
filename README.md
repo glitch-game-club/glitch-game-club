@@ -16,12 +16,7 @@ We are actively seeking simple 'boilerplate' games in [Glitch](https://glitch.co
 
 ![game club logo](branding/webgame_making_edlab_club_800.png)
 
-
-
-
 We will help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
-
-
 
 ##  Getting involved in the Clubs and our Resource
 
@@ -29,7 +24,7 @@ Please join us to support the Game Making Club Process and the Resources we are 
 
 Can you help us in one of the following ways to get involved?
 
-* [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. Thimble and Phaser.io are our go-to tools. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
+* [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. [Glitch](https://glitch.com/) and Phaser.io are our go-to tools. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 * [**Web Coding Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues) you will be a subject enthusiast from one of the area of activity. You volunteer for either video chats, to give feedback on projects or to answer forum questions. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 
 
