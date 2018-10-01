@@ -35,22 +35,10 @@ Make sure your game is available in the index.html file see below
 
  1. **assets** include images and other assets used by the game in this folder
  2. **js** include your javascript files in the repository in a folder called js or linking out to online versions of phaser
- 3. **index.html** Please name a playable version of your game or a clear tutorial as index.html in your project
+ 3. **index.html** Please make index.html a playable version of your game but with a very minimal file 
+ 
+ See [our Coding Guide]( https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/CODE_GUIDE.md ) for more info
 
-Other tips and tests:
-
-**Will it work offline?** Try running your game project offline using Firefox, will it run or are there dependencies that make it unplayable offline?
-
-#### Coding Guidelines
-
-Please try to follow the following guidelines;
-
-* **Declare Variables**: Put your variables at the start of the js project for clarity and to allow sharing between functions (while this creates global variables, we do this to make code easy to read)
-* **Visibility of code**: Try to make the core code of your game as visible as possible. You may want to include your code in side the projects index.html file or in one js file 
-* **Avoid using too many functions** Try to limit the complexity of your code by not nesting functions if you can avoid it to help novice coders
-* **Please avoid jQuery** or other helper frameworks if they are not needed. jQuery is great but plain JS helps makes our code examples clearer to read and consistent. 
-* **Use DR Principle** If you  Do Repeat some steps to avoid using more complicated coding structures that's ok. Prioritise clarity and readability over efficiency
-* **Follow the JavaScript code standards** Try to follow the [coding standards from W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 
 ## An Inspirational HTML template for blogging and documentation
 We would love to use this repository and Hugo as our main blogging and documentation platform. We also want our web presense to be as inspirational as the contents of the club. So we are looking for a Web Dev/ Designer to create a Hugo site for us base page, a blogging template and a session documentation template. Could this be you?
