@@ -16,6 +16,12 @@ You can look at this project as an example https://glitch.com/edit/#!/hazards-en
 
 Here are some more general guidelines
 
-- write code so it is obvious what it does
-- write code so it encourages the practice of solving problems by breaking difficult problems into small pieces
-- where possible, write in a style that is easy to change and experiment with, even if that means you write code that is difficult to reuse elsewhere - or favour tinker-ability over extend-ability 
+Please try to follow the following guidelines;
+
+* **Readability of code**: Try to write code so it is obvious what it does. 
+* **Make it modular but avoid nested structures** Write code so it encourages the practice of solving problems by breaking difficult problems into small pieces but try to limit the complexity of your code by not nesting structures if you can avoid it to help novice coders.
+* **Please avoid jQuery** or other helper frameworks if they are not needed. jQuery is great but plain JS helps makes our code examples clearer to read and consistent. 
+* **Use DR Principle** If you  Do Repeat some steps to avoid using more complicated coding structures that's ok. Prioritise clarity and readability over efficiency
+* **Follow the JavaScript code standards** Try to follow the [coding standards from W3Schools](https://www.w3schools.com/js/js_conventions.asp)
+* **favour tinker-ability over extend-ability** where possible, write in a style that is easy to change and experiment with, even if that means you write code that is difficult to reuse elsewhere
+
