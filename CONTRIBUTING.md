@@ -50,6 +50,7 @@ Please try to follow the following guidelines;
 * **Avoid using too many functions** Try to limit the complexity of your code by not nesting functions if you can avoid it to help novice coders
 * **Please avoid jQuery** or other helper frameworks if they are not needed. jQuery is great but plain JS helps makes our code examples clearer to read and consistent. 
 * **Use DR Principle** If you  Do Repeat some steps to avoid using more complicated coding structures that's ok. Prioritise clarity and readability over efficiency
+* **Follow the JavaScript code standards** Try to follow the [coding standards from W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 
 ## An Inspirational HTML template for blogging and documentation
 We would love to use this repository and Hugo as our main blogging and documentation platform. We also want our web presense to be as inspirational as the contents of the club. So we are looking for a Web Dev/ Designer to create a Hugo site for us base page, a blogging template and a session documentation template. Could this be you?
