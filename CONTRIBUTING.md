@@ -20,21 +20,16 @@ We are using Phaser.io javascript game framework as our beginner framework for m
 
 Our current [list of remixable starter games are here](https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/README.md#remixable-web-games-in-glitch)
 
-To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game in your own repository and let us know about it by creating an issue.
+To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game following our guidelines and submit a pull request into our games/ folder.
 
 ### Guidelines for Contributing games
 
 Please follow the following guidelines and process when creating your your games.
 
-#### Create a Game Repository
-
-Create your own repository in GitHub or GitLab or Bitbucket. 
-Make sure your game is available in the index.html file see below
-
-#### Game Project Structure
+#### Our Suggested Phaser Game Project Structure
 
  1. **assets** include images and other assets used by the game in this folder
- 2. **js** include your javascript files in the repository in a folder called js or linking out to online versions of phaser
+ 2. **js** include your game as one javascript file in the repository in a folder called js please link out to an versions of phaser - our suggested one is <script src="//cdn.jsdelivr.net/npm/phaser-ce@2.11.0/build/phaser.js"></script>
  3. **index.html** Please make index.html a playable version of your game but with a very minimal file 
  
  See [our Coding Guide]( https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/CODE_GUIDE.md ) for more info
