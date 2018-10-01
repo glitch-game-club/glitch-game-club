@@ -24,7 +24,7 @@ Please join us to support the Game Making Club Process and the Resources we are 
 
 Can you help us in one of the following ways to get involved?
 
-* [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. [Glitch](https://glitch.com/) and Phaser.io are our go-to tools. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
+* [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. [Glitch](https://glitch.com/) and Phaser.io are our go-to tools. Please have a look at [How to contribute] (https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) and our [coding games guidelines](https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/CODE_GUIDE.md)
 * [**Web Coding Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues) you will be a subject enthusiast from one of the area of activity. You volunteer for either video chats, to give feedback on projects or to answer forum questions. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 
 
