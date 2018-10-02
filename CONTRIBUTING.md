@@ -20,7 +20,13 @@ We are using Phaser.io javascript game framework as our beginner framework for m
 
 Our current [list of remixable starter games are here](https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/README.md#remixable-web-games-in-glitch)
 
-To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game following our guidelines and submit a pull request into our games/ folder.
+To volunteer to write a game, [please Sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new) or just write a game following our guidelines and test it by doing one of the following. As glitch.com will be the user facing project that our novice coder will see, please test your code there. 
+
+- submit a pull request into the games/ folder and ask us to review your game 
+- if possible include a link to a working game on glitch.com
+- when approved you or we can move the code to a separate GH repo and create fresh project at glitch.com 
+
+If you just want to send us a link to your game on glitch.com by [including it in an issue that's fine too](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 
 ### Guidelines for Contributing games
 
