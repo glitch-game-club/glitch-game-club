@@ -27,7 +27,7 @@ Please join us to support the Game Making Club Process and the Resources we are 
 
 Can you help us in one of the following ways to get involved?
 
-* [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable HTML5 games and linked resources. [Glitch](https://glitch.com/) and Phaser 2 are the tools we use. Please have a look at [How to contribute](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) and our [coding games guidelines](https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/CODE_GUIDE.md)
+* [**Game and Resource Creators:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) to help build a library of remixable in HTML5 games and linked resources. [Glitch](https://glitch.com/) and Phaser 2 are the tools we use. Please have a look at [How to contribute](https://github.com/mickfuzz/mozilla_html5_game_clubs/blob/master/CONTRIBUTING.md#what-were-working-on-right-now) and our [coding games guidelines](https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/CODE_GUIDE.md)
 * [**Web Coding Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues) you will be a subject enthusiast from one of the area of activity. You volunteer for either video chats, to give feedback on projects or to answer forum questions. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 
 
@@ -42,4 +42,4 @@ You can view some of our activity  at the following locations:
 * [Our Project Blog](https://digitalducks.org/webgames-club/)
 * Follow Discussions [on our Issues page](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)
 * [Our Wiki for Resources sharing](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki)
-* [If you get stuck Coding please ask questions here](https://discourse.mozilla.org/t/learning-web-development-marking-guides-and-questions/16294)
+* [If you get stuck Coding please ask questions here](https://discourse.mozilla.org/t/learning-web-development-marking-guides-and-questions/16294).
