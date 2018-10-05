@@ -10,10 +10,18 @@
 </head>
 
 <body>
-    <script>var config = {
+    <script>
+        var config = {
         type: Phaser.AUTO,
         width: 800,
         height: 600,
+        physics: {
+        default: 'arcade',
+        arcade: {
+            gravity: { y: 300 },
+            debug: false
+        }
+    },
         scene: {
             preload: preload,
             create: create,
@@ -22,29 +30,31 @@
     };
     
     var game = new Phaser.Game(config);
+    var platforms;
     
     function preload ()
     {
+        this.load.image('star', 'assets/star.png');
         this.load.image('sky', 'assets/sky.png');
-        this.load.image('enemy', 'assets/red.png');
-    this.load.image('hero', 'assets/green.png');
-    this.load.image('ground', 'assets/platform.png');
+        this.load.image('ground', 'assets/platform.png');
     }
     
     function create ()
     {
-        this.add.image(400, 300, 'enemy');
-        this.add.image(400, 300, 'hero');
+      
         this.add.image(400, 300, 'sky');
+        this.add.image(400, 300, 'star');
+        // this.add.image(400, 400, 'ground');
         
 
-        platforms = this.physics.add.staticGroup();
+          platforms = this.physics.add.staticGroup();
 
-    platforms.create(400, 568, 'ground').setScale(2).refreshBody();
+        platforms.create(400, 568, 'ground').setScale(2).refreshBody();
 
-    platforms.create(600, 400, 'ground');
-    platforms.create(50, 250, 'ground');
-    platforms.create(750, 220, 'ground');
+        platforms.create(600, 400, 'ground');
+        platforms.create(50, 250, 'ground');
+        platforms.create(750, 220, 'ground');
+        
     }
     
     function update ()
