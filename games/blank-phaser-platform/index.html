@@ -19,7 +19,6 @@
           game.load.image('ground', 'assets/platform.png');
           game.load.spritesheet('player', 'assets/player.png', 16, 16); 
         }
-
         var player;
         var platforms;
         var cursors;
@@ -30,13 +29,11 @@
             game.scale.pageAlignHorizontally = true;
             game.scale.pageAlignVertically = true;
             game.physics.startSystem(Phaser.Physics.ARCADE);
-
             // A simple background for our game - start showing image at top left 0,0
             game.add.sprite(0, 0, 'sky');
    
             //  The platforms group contains the ground and the 2 ledges we can jump on
             platforms = game.add.group();
-
             //  We will enable physics for any object that is created in this group
             platforms.enableBody = true;
             var ground = platforms.create(0, game.world.height - 32, 'ground');
@@ -47,35 +44,29 @@
             //  Now let's create two ledges - set them to not move on collision
             var ledge = platforms.create(200, 200, 'ground');
             ledge.body.immovable = true;
-
             ledge = platforms.create(-150, 100, 'ground');
             ledge.body.immovable = true;
     
             // The player and its settings
             player = game.add.sprite(32, game.world.height - 250, 'player');
             player.scale.setTo(2);
-
             //  We need to enable physics on the player
             game.physics.arcade.enable(player);
-
             //  Player physics properties. Give the little guy a slight bounce.
             player.body.bounce.y = 0.2;
             //set how strong gravity is
             player.body.gravity.y = 600;
             //don't let player go out of bounds
             player.body.collideWorldBounds = true;
-
             //  Our controls.
             cursors = game.input.keyboard.createCursorKeys();    
     }
-
     function update() {
         //  Collide the player and the stars with the platforms
         game.physics.arcade.collide(player, platforms);
       
         //  Reset the players velocity (movement)
         player.body.velocity.x = 0;
-
         if (cursors.left.isDown) {
             //  Move to the left
             player.body.velocity.x = -150;
