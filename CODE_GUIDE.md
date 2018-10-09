@@ -12,7 +12,9 @@ You can look at this project as an example https://glitch.com/edit/#!/hazards-en
 - avoid object literal syntax (one reason to use Phaser 2 rather than 3)
 - put variables that can be most manipulated by users to affect game play at start as globals
 - put variables in global if they are needed by more than one function
-- list variables at the start of functions 
+- list variables at the start of functions
+
+You might want to use [ESLint](https://eslint.org/) to automatically check for JavaScript style problems. A suggested config file for ESLint is [here](https://github.com/webgameclubs/edlab-gamemakers-club/blob/master/.eslintrc.js).
 
 Here are some more general guidelines
 
