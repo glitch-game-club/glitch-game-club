@@ -1,15 +1,15 @@
 # Welcome to the Glitch Game Making Club Resource 
 
-Welcome to the Glitch Gamemakers Resource. Many thanks for taking the time to look at our project. We hope this is a useful space and thank you in advance for any contribution you can make. We are not sponsored by Glitch.com we just love the tool as a place for our learners to have fun and learn things. 
+Welcome to the Glitch Gamemakers Resource. Many thanks for taking the time to look at our project. We hope this is a useful space and thank you in advance for any contribution you can make. We are not sponsored by Glitch.com, we just love the tool as a place for our learners to have fun and learn things. 
 
-This project aims to be a network of people to support computer club activities to make games. Together we will create a hub of resources to help this happen. Our particular focus will be on;
-[Creating audio, visual and story assets](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets) for video games using free and open tools, [Coding web-based games in Javascript](https://github.com/webgameclubs/edlab-gamemakers-club#example-web-games-in-glitch) using Phaser.js, [Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)](http://write.flossmanuals.net/learn-javascript-with-phaser/)
+This project aims to be a network of people to support computer club activities to make games, together we will create a hub of resources to help this happen. Our particular focus will be on;
+[Creating audio, visual and story assets](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki#creating-game-assets) for video games using free and open tools, [Coding web-based games in Javascript](https://github.com/webgameclubs/edlab-gamemakers-club#example-web-games-in-glitch) using Phaser.js, [Fun activities inspiring a creative response to local and global issues (especially “writing / coding in-role”)](http://write.flossmanuals.net/learn-javascript-with-phaser/).
 
 ### Remixable Phaser Web Games in Glitch
 
-We are actively seeking simple 'boilerplate'/ starter games in [Glitch](https://glitch.com/) to add to this list. Ideally these games will be half-baked in some way. By this we mean games that invite users to dive into the code by hitting remix and fix them or improve them in some way. 
+We are actively seeking simple 'boilerplate'/ starter games in [Glitch](https://glitch.com/) to add to this list. Ideally these games will be half-baked in some way, by this we mean games that invite users to dive into the code by hitting remix and fix them or improve them in some way. 
 
-See below for details on how to contribute. 
+See below for details on how to contribute:
 
 * [Simple Game Created to Be Edited](https://webgameclubs-simple-game-to-edit.glitch.me/)
 * [2d Breakout Game by end3r](https://vivid-typhoon.glitch.me/)
