@@ -12,7 +12,7 @@ We are actively seeking simple 'boilerplate'/ starter games in [Glitch](https://
 See below for details on how to contribute. 
 
 * [Simple Game Created to Be Edited](https://webgameclubs-simple-game-to-edit.glitch.me/)
-* [2d Breakout Game by end3r](https://vivid-typhoon.glitch.me/)
+* [2d Breakout Game by end3r](https://2d-breakout-end3r.glitch.me/)
 * [Simple Pirate Platformer](https://hazards-enemies-vlinted.glitch.me/)
 * (Using old Thimble system) [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
 * (Using old Thimble system)  [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
