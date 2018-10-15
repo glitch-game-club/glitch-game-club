@@ -17,7 +17,7 @@ See below for details on how to contribute.
 * (Using old Thimble system) [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
 * (Using old Thimble system)  [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
 
-![game club logo](branding/webgame_making_edlab_club_800.png)
+![game club logo](branding/glitch_game_club_800.png)
 
 We will help learners to be choose their own paths, work collaboratively and be inspired to make fun games with positive messages.
 
