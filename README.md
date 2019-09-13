@@ -11,11 +11,8 @@ We are actively seeking simple 'boilerplate'/ starter games in [Glitch](https://
 
 See below for details on how to contribute. 
 
-* [Simple Game Created to Be Edited](https://webgameclubs-simple-game-to-edit.glitch.me/)
+* [Grid Platform Game](https://grid-game-template.glitch.me/)
 * [2d Breakout Game by end3r](https://2d-breakout-end3r.glitch.me/)
-* [Simple Pirate Platformer](https://hazards-enemies-vlinted.glitch.me/)
-* (Using old Thimble system) [Phaser Platform Game Tutorial from Richard and Alvin](https://thimbleprojects.org/piratepete/334344/)
-* (Using old Thimble system)  [Intentionally Rubbish Phaser Platform for workshops](https://thimbleprojects.org/davegoopot/417060/)
 
 ![game club logo](branding/glitch_game_club_800.png)
 
@@ -39,7 +36,7 @@ Please take time to review our [code of conduct](CODE_OF_CONDUCT.md) aimed at yo
 
 You can view some of our activity  at the following locations:
 
-* [Our Project Blog](https://digitalducks.org/webgames-club/)
+* [Our Project Blog](https://digitalducks.org/glitch-game-club/)
 * Follow Discussions [on our Issues page](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues)
 * [Our Wiki for Resources sharing](https://github.com/mickfuzz/mozilla_html5_game_clubs/wiki)
-* [If you get stuck Coding please ask questions here](https://discourse.mozilla.org/t/learning-web-development-marking-guides-and-questions/16294)
+* [If you get stuck Coding please ask questions here](https://github.com/glitch-game-club/glitch-game-club/issues/54)
