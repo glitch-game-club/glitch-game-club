@@ -1,4 +1,4 @@
-Hi all,
+Hi everyone ,
 Actually this is a really cool game that all we know enemy following and escape via jumping using phaser.js html5.
 
 The red character appears enemy of our game and green one is hero. objective of this game is escape from enemy enemy however. 

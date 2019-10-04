@@ -1,6 +1,6 @@
 # Contributing to WebGame Making Clubs
 
-We welcome your contributions to this Game Making Club Resource. This resource aims to suport individuals or coding clubs to make web games with Phaser. This is a volunteer project and we can't do it without your help. This is a fantastically exciting area of emerging practice but there is still a need for user-friendly, beginner resources to get novice game makers, and club volunteers started and motivated. 
+hey! We welcome your contributions to this Game Making Club Resource. This resource aims to suport individuals or coding clubs to make web games with Phaser. This is a volunteer project and we can't do it without your help. This is a fantastically exciting area of emerging practice but there is still a need for user-friendly, beginner resources to get novice game makers, and club volunteers started and motivated. 
 
 ## Participation guidelines
 
