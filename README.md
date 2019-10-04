@@ -21,7 +21,7 @@ We will help learners to be choose their own paths, work collaboratively and be 
 
 ##  Getting involved in the Clubs and our Resource
 
-Please join us to support the Game Making Club Process and the Resources we are creating. 
+Please join us to support the Game Making Club Process and the Resources we are creating ... that would be much interesting .
 
 Can you help us in one of the following ways to get involved?
 
@@ -29,7 +29,7 @@ Can you help us in one of the following ways to get involved?
 * [**Web Coding Mentors:**](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues) you will be a subject enthusiast from one of the area of activity. You volunteer for either video chats, to give feedback on projects or to answer forum questions. [Please sign up here by creating an issue](https://github.com/mickfuzz/mozilla_html5_game_clubs/issues/new)
 
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on all of the above.
+Please see the [CONTRIBUTING.md](CONTRIBUTING.md) to get more information on all of the above :)
 
 ## Communication and Publication Channels 
 
